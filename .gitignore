@@ -12,3 +12,8 @@ data/
 
 # VSCode settings
 .vscode/
+
+# ignore data and notebook checkpoints
+data/
+*.csv
+.ipynb_checkpoints/
